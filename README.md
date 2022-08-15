@@ -2,7 +2,7 @@
 
 El proyecto se conecta a mysql 5.7.37 usando MyBatis para la persistencia, se utilizo java 11 y maven 3.8.4 como gestor de dependencias
 
-Antes de desplegar se necesita ejecutar los query de la creación de la BD y la tabla, cambiar la clave y el usuario en el archivo de propiedades por los propios
+Antes de desplegar se necesita ejecutar los query de la creación de la BD y la tabla que se encuentra en el archivo QUERY.md ubicado en el proyecto, cambiar la clave y el usuario en el archivo de propiedades por los propios
 
 Se tiene que contar con un IDE de desarrollo para el despliegue en local
 
